@@ -17,4 +17,4 @@ Related:
 
 # Motivation
 
-length-prefixed-message give the other side the ability to know how large an incomming message is. This makes it easy to allocate appropriately sized buffers, and makes the _end_ of the message known.
+length-prefixed-message give the other side the ability to know how large an incoming message is. This makes it easy to allocate appropriately sized buffers, and makes the _end_ of the message known.
